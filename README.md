@@ -42,7 +42,7 @@ The dataset includes the following attributes:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/students-socio-economic-analysis.git
+   git clone https://github.com/shubham21-sharma/students-socio-economic-analysis.git
    cd students-socio-economic-analysis
    ```
 
