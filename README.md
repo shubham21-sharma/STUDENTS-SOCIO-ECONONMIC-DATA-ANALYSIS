@@ -1,6 +1,6 @@
 # STUDENTS-SOCIO-ECONONMIC-DATA-ANALYSIS
 ## Project Overview
-This project aims to analyze socio-economic factors affecting students at GSFC University. By studying these factors, we can identify trends, correlations, and key insights to help improve students' overall well-being and academic performance. The analysis leverages Python, Streamlit, and various data visualization and machine learning libraries.
+This project aims to analyze socio-economic factors affecting students in Universities. By studying these factors, we can identify trends, correlations, and key insights to help improve students' overall well-being and academic performance. The analysis leverages Python, Streamlit, and various data visualization and machine learning libraries.
 
 ---
 
