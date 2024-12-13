@@ -46,12 +46,7 @@ The dataset includes the following attributes:
    cd students-socio-economic-analysis
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Launch the Streamlit app:
+2. Launch the Streamlit app:
    ```bash
    streamlit run app.py
    ```
@@ -70,21 +65,6 @@ The dataset includes the following attributes:
 - **Bar Charts**: Distribution of family income.
 - **Heatmaps**: Correlation between socio-economic factors.
 - **Pie Charts**: Breakdown of students by education loan status.
-
----
-
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`feature-branch-name`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch-name`).
-5. Create a Pull Request.
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
