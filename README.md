@@ -88,11 +88,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Acknowledgments
-- GSFC University for providing the data.
-- Open-source libraries and frameworks that made this project possible.
-
----
-
 ## Contact
 For any questions or feedback, please reach out to sms21022004@gmail.com .
